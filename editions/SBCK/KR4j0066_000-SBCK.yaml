@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0066/SBCK/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 别
+  hash: sha256:c6075d839ed6884df9a0afa3188943808da6d87c681db29cbdbd8e8526abcf40
+metadata:
+  title: 花菴詞選
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-25 00:49:35.482125'
+  source:
+    repository: kanripo
+    path: KR4j0066/KR4j0066_000.txt
+hash: sha256:8b630cfd49b27ce2755c487493be257af13e2cbaae162ce0b12537899efe2575

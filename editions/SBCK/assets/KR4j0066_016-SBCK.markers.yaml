@@ -1,0 +1,14 @@
+canonical_identifier: bkk:krp/KR4j0066/SBCK/v1/markers/16
+seq: 16
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4j0066_SBCK_016-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4j0066_SBCK_009-4a01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR4j0066_SBCK_016-bkkkrnewl2}
+  back: []
+hash: sha256:998b867217502cb1a1147cebd87797e2a5c80fa49476e74353f2bc7d1246fcb1
